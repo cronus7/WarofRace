@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 2cf0bd83b6cdd914fbe0cc17eb5cefc8
+timeCreated: 1497345173
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: unit_set_02_0
+    21300002: unit_set_02_1
+    21300004: unit_set_02_2
+    21300006: unit_set_02_3
+    21300008: unit_set_02_4
+    21300010: unit_set_02_5
+    21300012: unit_set_02_6
+    21300014: unit_set_02_7
+    21300016: unit_set_02_8
+    21300018: unit_set_02_9
+    21300020: unit_set_02_10
+    21300022: unit_set_02_11
+    21300024: unit_set_02_12
+    21300026: unit_set_02_13
+    21300028: unit_set_02_14
+    21300030: unit_set_02_15
+    21300032: unit_set_02_16
+    21300034: unit_set_02_17
+    21300036: unit_set_02_18
+    21300038: unit_set_02_19
+    21300040: unit_set_02_20
+    21300042: unit_set_02_21
+    21300044: unit_set_02_22
+    21300046: unit_set_02_23
+    21300048: unit_set_02_24
+    21300050: unit_set_02_25
+    21300052: unit_set_02_26
+    21300054: unit_set_02_27
+    21300056: unit_set_02_28
+    21300058: unit_set_02_29
+    21300060: unit_set_02_30
+    21300062: unit_set_02_31
+    21300064: unit_set_02_32
+    21300066: unit_set_02_33
+    21300068: unit_set_02_34
+    21300070: unit_set_02_35
+    21300072: unit_set_02_36
+    21300074: unit_set_02_37
+    21300076: unit_set_02_38
+    21300078: unit_set_02_39
+    21300080: unit_set_02_40
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unit_set_02_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 332
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 346
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 348
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 348
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 348
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 248
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 278
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 278
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 276
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 280
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_10
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 280
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 210
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 210
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 208
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 210
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 216
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 220
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 136
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 138
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 138
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 165
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_22
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 140
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 146
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_24
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 156
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 66
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 66
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 68
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 74
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 86
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_32
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 96
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 25
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 26
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unit_set_02_40
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 36
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
